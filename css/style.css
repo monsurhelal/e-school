@@ -1,0 +1,142 @@
+section{
+    margin-bottom: 50px;
+}
+
+.my-logo{
+    width: 145px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(10, 10, 10);
+    font-family: sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    background: #21b573;
+    border-radius: 25px;
+    color: #ffffff;
+}
+nav.navbar.navbar-expand-lg.navbar-light {
+    padding-bottom: 75px;
+    padding-top: 20px;
+}
+section.top-section {
+    background: #f0fff0;
+}
+img.rt-pic {
+    margin-left: -30px;
+    padding-bottom: 60px;
+}
+span.orange {
+    color: #fd511a;
+}
+h1 {
+    font-size: 44px;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+
+span.green {
+    color: #21b573;
+}
+.my-content {
+    padding: 10px 49px 10px 0px;
+}
+p.about {
+    padding: 5px 0px 27px 0px;
+    line-height: 35px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #949494;
+}
+a.get-btn {
+    color: white;
+    background: #21b573;
+    padding: 13px 30px;
+    border-radius: 30px;
+}
+img.img-con {
+    width: 75px;
+}
+section.cat-sec {
+    margin-top: 45px;
+}
+.div-con {
+    text-align: center;
+    background: #f0fff0;
+    padding: 32px 20px;
+    height: 240px;
+    border-radius: 8px;
+    transition: all .5s;
+}
+
+.div-con h2 {
+    color: #989595;
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.div-con p {
+    color: #9c9c9c;
+}
+.div-con:hover {
+    background: #ffffff;
+    box-shadow: 2px 13px 10px 5px #ddd;
+}
+/* card css */
+.card {
+    border-radius: 14px;
+}
+.card img {
+    padding: 20px;
+}
+p.card-text {
+    margin: 23px 0px;
+}
+img.s-img {
+    width: 30px;
+    padding: 0px;
+}
+.card-footer {
+    background: none;
+    border-top: none;
+}
+h2.online-course {
+    padding: 30px 10px;
+    text-align: center;
+    color: #413960;
+}
+img.man {
+    width: 88px;
+}
+section.testimonial {
+    background: #f3f3f3;
+    padding: 47px 0px 20px;
+}
+
+/* testimonial end */
+.ul-content ul li {
+    list-style: none;
+    color: #ffffff;
+}
+footer {
+    background: #1d1a25;
+    margin-top: -50px;
+    padding: 68px 0px;
+}
+.right-p {
+    color: white;
+}
+p.copy-rught {
+    color: #ffffff;
+    text-align: center;
+    padding-top: 41px;
+}
+
+@media(max-width :768px){
+
+    .div-con{
+        margin-bottom: 20px;
+    }
+}
